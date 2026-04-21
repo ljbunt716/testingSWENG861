@@ -15,4 +15,7 @@ nav h1 img {
 [class*="unified-side-bar___StyledUl"] button span {
   color: yellow !important;
 }
- 
+
+span{
+color: red;
+}
