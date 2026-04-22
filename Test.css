@@ -1,20 +1,4 @@
 /* ✅ Glide External CSS Import Test */
- 
-/* Red border on logo */
-nav h1 img {
-  border: 3px solid red !important;
-  border-radius: 4px !important;
-}
- 
-/* Blue background on sidebar */
-[class*="unified-side-bar___StyledMotionDiv2"] {
-  background: navy !important;
-}
- 
-/* Yellow text on nav items */
-[class*="unified-side-bar___StyledUl"] button span {
-  color: yellow !important;
-}
 
 span{
 color: red;
